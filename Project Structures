@@ -1,0 +1,16 @@
+car-market-analysis/
+├── data/
+│   ├── raw/
+│   │   ├── train.csv
+│   │   └── test.csv
+│   └── processed/
+├── src/
+│   ├── __init__.py
+│   ├── preprocessing.py    # Kode preprocessing kita
+│   └── analyzer.py        # Kode analyzer kita
+├── notebooks/
+│   └── analysis_demo.ipynb
+├── tests/
+│   └── test_analyzer.py
+├── requirements.txt
+└── README.md
